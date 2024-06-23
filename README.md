@@ -1,5 +1,5 @@
 # VNews8td
-``Vietnamese Dataset```, ```Text Classification```.
+```Vietnamese Dataset```, ```Text Classification```.
 
 * Tập dữ liệu VNews8td là tập dữ liệu Tiếng Việt. Được thu thập từ trang báo mạng VnExpress từ ngày 01/06/2023 - 01/06/2024. Phiên bản ```8td``` bao gồm 8 danh mục lớn nhất, mỗi văn bản bao gồm tiêu đề (title) và phần mô tả (description) của bài báo.
 * Tập dữ liệu giành cho bài toán phân loại văn bản (Text Classification / Document Classification).
